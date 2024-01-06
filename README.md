@@ -4,4 +4,4 @@
 <h2> HTML, CSS ve JavaScript Özellikleri Kullanılarak Oluşturulan Portfolio Web Sitesi</h2>
 
 # EKRAN GÖRÜNTÜSÜ
-![Uploading portfolio.gif…]()
+![portfolio](https://github.com/kaymakhasan/Planet-Portfolio/assets/147662994/c0c4ae1a-51c0-442f-bb23-e147e5593a6e)
